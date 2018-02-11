@@ -6,7 +6,7 @@ to excuit this file excuit this command
 chmod +x font.sh
 
 run scrip using this command 
-#./font.sh
+./font.sh
 
 paste your font fils in this directory
 
