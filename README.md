@@ -17,3 +17,6 @@ fc-cache -fv
 
 for manual install visit this site 
 https://technicalhelperchetan.com/install-fonts-kali-linux-microsoft-truetype-core-many/
+
+My all Fonts 
+https://technicalhelperchetan.com/file/font.zip
