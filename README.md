@@ -1,22 +1,22 @@
 # install-font-on-kali-linux
-Install font in kali linux in few seconds by this script.
+Install fonts in kali linux in few seconds by this script.
 
-to excuit this file excuit this command 
+to execute this file excute this command 
 
-chmod +x font.sh
+chmod +777 font.sh
 
-run scrip using this command 
-./font.sh
+run this scrip using this command 
+```./font.sh```
 
-paste your font fils in this directory
+paste your font files into this directory
 
 /usr/share/fonts
 
 after doing every thing excuit this command
-fc-cache -fv
+```fc-cache -fv```
 
 for manual install visit this site 
 https://technicalhelperchetan.com/install-fonts-kali-linux-microsoft-truetype-core-many/
 
-My all Fonts 
+My  Fonts 
 https://technicalhelperchetan.com/file/font.zip
