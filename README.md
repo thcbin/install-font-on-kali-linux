@@ -16,7 +16,6 @@ after doing every thing excuit this command
 fc-cache -fv
 
 for manual install visit this site 
-https://technicalhelperchetan.com/install-fonts-kali-linux-microsoft-truetype-core-many/
-
+ https://blog.thcb.in/install-fonts-on-kali-linux/
 My all Fonts 
 https://thcb.in/file/font.zip
