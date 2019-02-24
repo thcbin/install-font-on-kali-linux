@@ -19,4 +19,4 @@ for manual install visit this site
 https://technicalhelperchetan.com/install-fonts-kali-linux-microsoft-truetype-core-many/
 
 My all Fonts 
-https://technicalhelperchetan.com/file/font.zip
+https://thcb.in/file/font.zip
