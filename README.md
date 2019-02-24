@@ -17,5 +17,7 @@ fc-cache -fv
 
 for manual install visit this site 
  https://blog.thcb.in/install-fonts-on-kali-linux/
+ 
+ 
 My all Fonts 
 https://thcb.in/file/font.zip
