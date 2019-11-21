@@ -16,7 +16,7 @@ after doing every thing excuit this command
 fc-cache -fv
 
 for manual install visit this site 
- https://blog.thcb.in/install-fonts-on-kali-linux/
+ https://blog.thcb.org/install-fonts-on-kali-linux/
  
  
 My all Fonts 
